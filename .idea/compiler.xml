@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Telegrambotweather" />
+        <module name="telegrambotweather3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="7" />
